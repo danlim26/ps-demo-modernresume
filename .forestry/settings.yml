@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: _config-yml
   label: Configuration
   create: all
   match: "**/*"
