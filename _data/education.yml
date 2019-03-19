@@ -1,4 +1,9 @@
 ---
+- name: De La Salle University
+  dates: 2007 - 2011
+  qualification: Bachelor of Computer Science
+  quote: ''
+  description: ''
 - name: Harvard University
   dates: 2001 - 2004
   qualification: BA Law
